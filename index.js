@@ -67,7 +67,7 @@ const words = [
     "dog",
     "knife",
     "large meat stick",
-    "https://pbs.twimg.com/media/FbXfyMrXgAMMSoN?format=png&name=smallyanky doodle",
+    "https://pbs.twimg.com/media/FbXfyMrXgAMMSoN?format=png",
     "shloing",
     "woowaa",
     "banana",
